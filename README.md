@@ -1,6 +1,6 @@
 Bots Armageddon
 =======================
-Module  for Telegram Bot
+Module  for Bot
 
 Installation
 ------------
