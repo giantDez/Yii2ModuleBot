@@ -1,4 +1,4 @@
-Telegram Bot Armageddon
+Bots Armageddon
 =======================
 Module  for Telegram Bot
 
@@ -16,7 +16,7 @@ php composer.phar require --prefer-dist armageddon.pro/yii2-arma-telegram-bot "*
 or add
 
 ```
-"armageddon.pro/yii2-arma-telegram-bot": "*"
+"armageddon.pro/yii2-arma-bot": "*"
 ```
 
 to the require section of your `composer.json` file.
@@ -28,4 +28,4 @@ Usage
 Once the extension is installed, simply use it in your code by  :
 
 ```php
-<?= \Armageddon\Telegram\Bot\AutoloadExample::widget(); ?>```
+<?= \Armageddon\Bot\AutoloadExample::widget(); ?>```
