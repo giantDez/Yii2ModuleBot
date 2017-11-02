@@ -1,6 +1,6 @@
 <?php
 
-namespace Armageddon\Telegram\Bot;
+namespace Armageddon\Bot;
 
 /**
  * This is just an example.
