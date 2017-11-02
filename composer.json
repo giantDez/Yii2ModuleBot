@@ -4,6 +4,7 @@
     "type": "yii2-extension",
     "keywords": ["yii2","extension","telegram","bot","armageddon"],
     "license": "BSD-4-Clause",
+    "homepage": "https://armageddon.pro",
     "authors": [
         {
             "name": "Dima Klepcha",
