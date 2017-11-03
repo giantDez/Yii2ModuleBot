@@ -1,6 +1,6 @@
 Bots Armageddon
 =======================
-Module  for Bot
+Module for Bot
 
 Installation
 ------------
