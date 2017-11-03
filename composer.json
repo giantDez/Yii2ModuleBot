@@ -1,10 +1,10 @@
 {
     "name": "armageddon.pro/yii2-arma-bot",
-    "description": "Module  for Bots",
+    "description": "Module for Bots",
     "type": "yii2-extension",
-    "keywords": ["yii2","extension","telegram","bot","armageddon"],
+    "keywords": ["yii2", "extension", "telegram", "telegramBot", "bot", "armageddon"],
     "license": "BSD-4-Clause",
-    "homepage": "https://armageddon.pro",
+    "homepage": "https://armageddon.pro/",
     "authors": [
         {
             "name": "Dima Klepcha",
