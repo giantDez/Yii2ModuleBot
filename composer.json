@@ -12,7 +12,8 @@
         }
     ],
     "require": {
-        "yiisoft/yii2": "*"
+        "yiisoft/yii2": "*",
+        "irazasyed/telegram-bot-sdk": "dev-master"
     },
     "autoload": {
         "psr-4": {
